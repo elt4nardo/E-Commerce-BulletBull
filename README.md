@@ -10,30 +10,5 @@ Bienvenido al repositorio oficial de **BulletBull.shop**, una tienda online espe
 
 - HTML5 / CSS3 / JavaScript  
 - Responsive design  
-- [Reemplazá o completá con otras tecnologías si usás algo más, como React, Next.js, Bootstrap, etc.]
+- React / Vite / TypeScript 
 
-## 📦 Estructura del proyecto
-
-📁 bulletbull-shop/
-├── index.html
-├── css/
-│ └── styles.css
-├── js/
-│ └── scripts.js
-├── assets/
-│ ├── images/
-│ └── fonts/
-├── README.md
-└── [otros archivos o carpetas]
-
-bash
-Copiar
-Editar
-
-## 🛠️ Instalación local
-
-Si querés clonar el proyecto y probarlo localmente en tu máquina:
-
-```bash
-git clone https://github.com/tu-usuario/bulletbull-shop.git
-cd bulletbull-shop
